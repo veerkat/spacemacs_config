@@ -252,6 +252,9 @@ before packages are loaded. If you are unsure, you should try in setting them in
                                             :weight normal
                                             :width normal
                                             :powerline-scale 1.6))
+
+  (setq-default js2-mode-show-parse-errors nil
+                js2-mode-show-strict-warnings nil)
   )
 
 (defun dotspacemacs/user-config ()
