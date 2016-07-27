@@ -24,7 +24,6 @@ values."
      ;; <M-m f e R> (Emacs style) to install them.
      ;; ----------------------------------------------------------------
      javascript
-     erlang
      auto-completion
      better-defaults
      emacs-lisp
